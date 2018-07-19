@@ -1,3 +1,4 @@
+/*
 package edu.maskleo.guavacollections;
 
 import org.springframework.boot.SpringApplication;
@@ -10,3 +11,4 @@ public class GuavaCollectionsApplication {
         SpringApplication.run(GuavaCollectionsApplication.class, args);
     }
 }
+*/
