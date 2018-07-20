@@ -5,7 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/guava/guava.iml" filepath="$PROJECT_DIR$/guava/guava.iml" />
       <module fileurl="file://$PROJECT_DIR$/guava-collections/guava-collections.iml" filepath="$PROJECT_DIR$/guava-collections/guava-collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/guava-concurrent/guava-concurrent.iml" filepath="$PROJECT_DIR$/guava-concurrent/guava-concurrent.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java-guava-explain.iml" filepath="$PROJECT_DIR$/java-guava-explain.iml" />
     </modules>
   </component>
 </project>

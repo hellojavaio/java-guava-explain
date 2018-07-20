@@ -9,15 +9,6 @@
     <packaging>jar</packaging>
 
     <name>guava-concurrent</name>
-    <description>Demo project for Spring Boot</description>
-
-    <parent>
-        <groupId>org.springframework.boot</groupId>
-        <artifactId>spring-boot-starter-parent</artifactId>
-        <version>2.0.3.RELEASE</version>
-        <relativePath/> <!-- lookup parent from repository -->
-    </parent>
-
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -25,32 +16,15 @@
     </properties>
 
     <dependencies>
-        <!--<dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter</artifactId>
-        </dependency>-->
-
         <dependency>
-            <groupId>com.google.guava</groupId>
+            <groupId>com.diffplug.guava</groupId>
             <artifactId>guava-concurrent</artifactId>
-            <version>r03</version>
+            <version>19.0.0</version>
         </dependency>
-
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava-testlib</artifactId>
-            <version>25.0-jre</version>
+            <version>25.1-jre</version>
         </dependency>
     </dependencies>
-
-    <!--<build>
-        <plugins>
-            <plugin>
-                <groupId>org.springframework.boot</groupId>
-                <artifactId>spring-boot-maven-plugin</artifactId>
-            </plugin>
-        </plugins>
-    </build>-->
-
-
 </project>

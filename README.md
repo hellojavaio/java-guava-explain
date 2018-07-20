@@ -1,9 +1,16 @@
 # java-guava-explain
 explain for Guava
 
-## TODO
 
-- `com.google.common.base.Optional` 引用报错
+## guava
+
+### Optional
+
+- 避免 `null` 发生
+
+### Preconditions
+
+- 检查值并抛出可能的异常
 
 ## LICENSE
 

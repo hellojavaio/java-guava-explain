@@ -12,11 +12,9 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="demo1" target="1.8" />
       <module name="guava" target="1.8" />
       <module name="guava-collections" target="1.8" />
       <module name="guava-concurrent" target="1.8" />
-      <module name="guava-explain-1" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
